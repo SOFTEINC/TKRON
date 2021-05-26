@@ -35,7 +35,7 @@
 
 Made With Softe inc. 
 
-![](img/I.jpg)
+![](https://github.com/SOFTEINC/TKRON/blob/main/img/l.jpg)
 
 # Team :
 
