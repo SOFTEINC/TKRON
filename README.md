@@ -35,11 +35,11 @@
 
 Made With Softe inc. 
 
-![](/img/I.jpg)
+![](img/I.jpg)
 
 # Team :
 
-- Ammar Abdelhalem >The Master
+- Ammar Abdelhalem `The Master`
 
 - Omar Adel
 
@@ -50,7 +50,7 @@ Made With Softe inc.
 
 ## Command :
 
-python tkron.py >option 
+python tkron.py `option`
 
 ### Ex :
 
